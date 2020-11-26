@@ -35,17 +35,13 @@ featured: false
 
 links:
 url_pdf: https://content.sciendo.com/downloadpdf/journals/popets/2020/2/article-p129.xml
-#url_code: '#'
+url_code: '#'
 url_dataset: 'https://athinagroup.eng.uci.edu/projects/smarttv/data/'
-#url_poster: '#'
+url_poster: '#'
 url_project: 'https://athinagroup.eng.uci.edu/projects/smarttv/'
-#url_slides: ''
-#url_source: '#'
+url_slides: ''
+url_source: '#'
 url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'
-- name: Firetastic Code
-  url: https://github.com/UCI-Networking-Group/firetastic
-- name: Rokustic Code
-  url: https://github.com/UCI-Networking-Group/rokustic
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

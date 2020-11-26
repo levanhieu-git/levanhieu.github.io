@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hieu Le
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Irvine
+  url: "https://athinagroup.eng.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ads & tracking and privacy within the mobile and IoT space.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ads & Tracking
+- Privacy
+- Web / Network measurements
 
 education:
   courses:
@@ -60,7 +60,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

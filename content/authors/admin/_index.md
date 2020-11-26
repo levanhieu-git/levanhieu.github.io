@@ -47,6 +47,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9_AJvf4AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/levanhieu/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -74,4 +77,4 @@ Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvin
 
 His research interests include ads & tracking and privacy within the mobile and IoT space.
 
-He previously completed undergraduate research with Prof. David Eppstein regarding “Watershed Extraction.” Hieu Le’s industry experience comprised of frontend implementation and backend production maintenance of heavy traffic sites.
+He previously completed undergraduate research with Prof. David Eppstein regarding “Watershed Extraction.” Before joining Athina's research group, Hieu Le acquired 10 years of industry experience which includes work relating to government contracts, high traffic e-commerce sites, and technical consulting for UCI.

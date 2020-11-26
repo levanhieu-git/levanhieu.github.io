@@ -23,11 +23,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Engineering, GPA 3.9
-    institution: University of California, Irvine
+  - course: PhD in Computer Engineering
+    institution: University of California, Irvine - GPA 3.9
     year: 2018-Current
-  - course: B.S., Computer Science and Engineer, GPA 3.6
-    institution: University of California, Irvine
+  - course: B.S., Computer Science and Engineer
+    institution: University of California, Irvine - GPA 3.6
     year: 2009
   - course: Highschool and IB Diploma
     institution: San Jose High Academy
@@ -46,7 +46,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=9_AJvf4AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

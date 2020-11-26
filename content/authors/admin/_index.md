@@ -73,8 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. After working with Prof. Athina Markopoulou as a technical consultant, he joined her PhD group as a Computer Engineering student in Fall 2018. 
+Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined Athina Markopoulou's research group as a PhD Computer Engineering student in Fall 2018. His research interests include ads & tracking and privacy within the mobile and IoT space.
 
-His research interests include ads & tracking and privacy within the mobile and IoT space.
-
-He previously completed undergraduate research with Prof. David Eppstein regarding “Watershed Extraction.” Before joining Athina's research group, Hieu Le acquired 10 years of industry experience which includes work relating to government contracts, high traffic e-commerce sites, and technical consulting for UCI.
+He previously completed undergraduate research with Prof. David Eppstein regarding “Watershed Extraction.” Before joining Athina's research group, Hieu Le acquired 10 years of industry experience, which included work relating to government contracts, high traffic e-commerce sites, and technical consulting for UCI.

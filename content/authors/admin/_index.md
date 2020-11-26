@@ -23,15 +23,17 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computer Engineering
+    gpa: GPA: 3.9
+    institution: University of California, Irvine
+    year: 2018-Current
+  - course: B.S., Computer Science and Engineer
+    gpa: GPA: 3.6
+    institution: University of California, Irvine
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Highschool and IB Diploma
+    institution: San Jose High Academy
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,15 +43,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. After working with Prof. Athina Markopoulou as a technical consultant, he joined her PhD group as a Computer Engineering student in Fall 2018. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include ads & tracking and privacy within the mobile and IoT space.
+
+He previously completed undergraduate research with Prof. David Eppstein regarding “Watershed Extraction.” Hieu Le’s industry experience comprised of frontend implementation and backend production maintenance of heavy traffic sites.

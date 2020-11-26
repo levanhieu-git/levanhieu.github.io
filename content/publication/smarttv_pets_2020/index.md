@@ -22,9 +22,7 @@ publication_types: ["1"]
 publication: In *In Proceedings of the Privacy Enhancing Technologies Symposium (PoPETs)*
 publication_short: In *PoPETs*
 
-abstract: In this paper, we present a large-scale measurement study of the smart TV advertising and tracking ecosystem. First, we illuminate the network behavior of smart TVs as used in the wild by analyzing network traffic collected from residential gateways. We find that smart TVs connect to well-known and platformspecific advertising and tracking services (ATSes). Second, we design and implement software tools that systematically explore and collect traffic from the top-1000 apps on two popular smart TV platforms, Roku and Amazon Fire TV. We discover that a subset of apps communicate with a large number of ATSes, and that some ATS organizations only appear on certain platforms, showing a possible segmentation of the smart TV ATS ecosystem across platforms. Third, we evaluate
-the (in)effectiveness of DNS-based blocklists in preventing smart TVs from accessing ATSes. We highlight that even smart TV-specific blocklists suffer from missed ads
-and incur functionality breakage. Finally, we examine our Roku and Fire TV datasets for exposure of personally identifiable information (PII) and find that hundreds of apps exfiltrate PII to third parties and platform domains. We also find evidence that some apps send the advertising ID alongside static PII values, effectively eliminating the user’s ability to opt out of ad personalization.
+abstract: In this paper, we present a large-scale measurement study of the smart TV advertising and tracking ecosystem. First, we illuminate the network behavior of smart TVs as used in the wild by analyzing network traffic collected from residential gateways. We find that smart TVs connect to well-known and platform-specific advertising and tracking services (ATSes). Second, we design and implement software tools that systematically explore and collect traffic from the top-1000 apps on two popular smart TV platforms, Roku and Amazon Fire TV. We discover that a subset of apps communicate with a large number of ATSes, and that some ATS organizations only appear on certain platforms, showing a possible segmentation of the smart TV ATS ecosystem across platforms. Third, we evaluate the (in)effectiveness of DNS-based blocklists in preventing smart TVs from accessing ATSes. We highlight that even smart TV-specific blocklists suffer from missed ads and incur functionality breakage. Finally, we examine our Roku and Fire TV datasets for exposure of personally identifiable information (PII) and find that hundreds of apps exfiltrate PII to third parties and platform domains. We also find evidence that some apps send the advertising ID alongside static PII values, effectively eliminating the user’s ability to opt out of ad personalization.
 
 # Summary. An optional shortened abstract.
 summary: In this paper, we present a large-scale measurement study of the smart TV advertising and tracking ecosystem. 
@@ -48,7 +46,7 @@ url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'
   url: https://github.com/UCI-Networking-Group/firetastic
 - name: Rokustic Code
   url: https://github.com/UCI-Networking-Group/rokustic
-  
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 #image:

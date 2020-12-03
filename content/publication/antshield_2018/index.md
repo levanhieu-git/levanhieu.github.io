@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/pdf/1803.01261.pdf
+url_pdf: https://arxiv.org/abs/1803.01261
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

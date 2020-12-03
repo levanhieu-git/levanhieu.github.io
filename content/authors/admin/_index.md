@@ -26,7 +26,7 @@ education:
   - course: PhD in Computer Engineering
     institution: University of California, Irvine - GPA 3.9
     year: 2018-Current
-  - course: B.S., Computer Science and Engineer
+  - course: B.S., Computer Science and Engineering
     institution: University of California, Irvine - GPA 3.6
     year: 2009
   - course: Highschool and IB Diploma

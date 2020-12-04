@@ -19,8 +19,8 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  caption: 'Image credit: [NDSS 2021](https://www.ndss-symposium.org/ndss2021/)'
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).

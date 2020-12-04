@@ -5,9 +5,9 @@ summary: Thank you to eyeo for hosting the event!
 authors:
 - Hieu Le
 tags:
-- Publication
+- AdblockerDevSummit
 categories:
-- Publication
+- Talk
 date: "2020-10-21T00:00:00Z"
 lastmod: "2020-10-21T00:00:00Z"
 featured: false

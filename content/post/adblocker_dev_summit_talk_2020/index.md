@@ -1,15 +1,15 @@
 ---
-title: 'My work, CV-Inspector: Towards Automating Detection of Adblock Circumvention, has been accepted to NDSS 2021!'
-subtitle: 'Thank you to Athina Markopoulou and our collaborator Zubair Shafiq. Special thanks to eyeo for their insights into circumvention.'
-summary: Thank you to Athina Markopoulou and our collaborator Zubair Shafiq. Special thanks to eyeo for their insights into circumvention.
+title: 'I gave a short talk on "Revisiting Adblock Anti-Circumvention at the Adblocker Dev Summit 2020'
+subtitle: 'Thank you to eyeo for hosting the event!'
+summary: Thank you to eyeo for hosting the event!
 authors:
 - Hieu Le
 tags:
 - Publication
 categories:
 - Publication
-date: "2020-12-04T00:00:00Z"
-lastmod: "2020-12-04T00:00:00Z"
+date: "2020-10-21T00:00:00Z"
+lastmod: "2020-10-21T00:00:00Z"
 featured: false
 draft: false
 
@@ -19,8 +19,8 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -31,4 +31,4 @@ image:
 projects: []
 ---
 
-See [CV-Inspector: Towards Automating Detection of Adblock Circumvention](https://levanhieu.com/publication/cvinspector_ndss_2021/).
+See [details of talk here](https://levanhieu.com/talk/adblockerdevsummit_2020/).

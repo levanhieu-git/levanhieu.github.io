@@ -4,11 +4,11 @@ authors:
 - Hieu Le
 - Athina Markopoulou
 - Zubair Shafiq
-date: "2021-01-07T00:00:00Z"
+date: "2020-12-07T00:00:00Z"
 #doi: "https://doi.org/10.2478/popets-2020-0021"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-04T00:00:00Z"
+publishDate: "2021-01-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: accepted to the Network and Distributed System Security Symposium (NDSS 2021)
-publication_short: accepted to *NDSS (2021)*
+publication_short: accepted to *NDSS 2021*
 
 abstract: The adblocking arms race has escalated over the last few years. An entire new ecosystem of circumvention (CV) services has recently emerged that aims to bypass adblockers by obfuscating site content, making it difficult for adblocking filter lists to distinguish between ads and functional content. In this paper, we investigate recent anti-circumvention (anti-CV) efforts by the adblocking community that leverage custom filter lists. In particular, we analyze the anti-circumvention filter list (ACVL}, which supports advanced filter rules with enriched syntax and capabilities designed specifically to counter circumvention. We show that keeping ACVL rules up-to-date requires significant effort by expert list curators, who need to continuously monitor sites known to employ CV services and to discover new such sites in the wild; both tasks require considerable manual effort. To help automate and scale ACVL curation, we develop CV-Inspector, a machine learning approach for automatically detecting whether a site employs successful circumvention using differential execution analysis. We show that CV-Inspector achieves an F1-score 0.89 when detecting sites that successfully circumvent adblockers, and 0.94 for sites that do not. We apply CV-Inspector to discover sites that employ CV in the wild on top-20K sites. We also apply CV-Inspector to a list of sites that are known to utilize CV, and which are continuously monitored by ACVL authors, who counter CV by updating filter rules. In the latter case, we demonstrate that CV-Inspector reduces human labeling effort by 98%, which removes a major bottleneck for ACVL authors. Our work is the first large-scale study of the state of the circumvention arms race, and makes an important step towards automating anti-CV efforts.
 

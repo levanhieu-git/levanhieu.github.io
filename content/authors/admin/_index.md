@@ -29,9 +29,9 @@ education:
   - course: B.S., Computer Science and Engineering
     institution: University of California, Irvine - GPA 3.6
     year: 2009
-  - course: Highschool and IB Diploma
-    institution: San Jose High Academy
-    year: 2005
+#  - course: Highschool and IB Diploma
+#    institution: San Jose High Academy
+#    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

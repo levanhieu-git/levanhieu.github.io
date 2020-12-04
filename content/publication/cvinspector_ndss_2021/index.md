@@ -4,11 +4,11 @@ authors:
 - Hieu Le
 - Athina Markopoulou
 - Zubair Shafiq
-#date: "2020-12-04T00:00:00Z"
+date: "2021-01-07T00:00:00Z"
 #doi: "https://doi.org/10.2478/popets-2020-0021"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2020-12-04T00:00:00Z"
+publishDate: "2020-12-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: Adblocker Dev Summit (2020) Talk
+- name: Short Talk
   url: https://levanhieu.com/talk/adblockerdevsummit_2020/
 #- name: Rokustic Code
 #  url: https://github.com/UCI-Networking-Group/rokustic

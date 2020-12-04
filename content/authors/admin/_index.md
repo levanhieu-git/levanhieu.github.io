@@ -14,7 +14,7 @@ organizations:
   url: "https://athinagroup.eng.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ads & tracking and privacy within the mobile and IoT space.
+bio: My research interests include ads & tracking and privacy within the web,mobile, and IoT space.
 
 interests:
 - Ads & Tracking

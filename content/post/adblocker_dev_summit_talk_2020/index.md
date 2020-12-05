@@ -1,5 +1,5 @@
 ---
-title: 'I gave a short talk on "Revisiting Adblock Anti-Circumvention at the Adblocker Dev Summit 2020'
+title: 'I gave a short talk on "Revisiting Adblock Anti-Circumvention" at the Adblocker Dev Summit 2020'
 subtitle: 'Thank you to eyeo for hosting the event!'
 summary: Thank you to eyeo for hosting the event!
 authors:

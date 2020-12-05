@@ -19,49 +19,50 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "80%"  
+# description = "80%"  
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+# description = "80%"
  
 [[feature]]
-  icon = "aws"
+  icon = "android"
   icon_pack = "fab"
-  name = "Amazon Web Services"
-  description = "70%"
+  name = "Android"
+# description = "75%"
 
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "70%"
+#  description = "70%"
 
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
-  description = "90%"
+#  description = "90%"
 
 [[feature]]
   icon = "css3"
   icon_pack = "fab"
   name = "CSS"
-  description = "90%"
+#  description = "90%"
 
 [[feature]]
   icon = "chrome"
   icon_pack = "fab"
   name = "Chrome Extensions"
-  description = "75%"
+#  description = "75%"
 
 [[feature]]
-  icon = "android"
+  icon = "aws"
   icon_pack = "fab"
-  name = "Android"
-  description = "75%"
+  name = "Amazon Web Services"
+#  description = "70%"
+
 
 
 

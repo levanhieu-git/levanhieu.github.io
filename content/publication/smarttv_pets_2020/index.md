@@ -2,7 +2,7 @@
 title: "The TV is Smart and Full of Trackers: Measuring Smart TV Advertising and Tracking"
 authors:
 - Janus Varmarken*
-- Hieu Le*
+- Hieu Le\*
 - Anastasia Shuba
 - Athina Markopoulou
 - Zubair Shafiq

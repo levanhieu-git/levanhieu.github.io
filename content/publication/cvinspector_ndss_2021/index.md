@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
-- name: Short Talk
-  url: https://levanhieu.com/talk/adblockerdevsummit_2020/
+#- name: Short Talk
+#  url: https://levanhieu.com/talk/adblockerdevsummit_2020/
 #- name: Rokustic Code
 #  url: https://github.com/UCI-Networking-Group/rokustic
 #url_pdf: https://content.sciendo.com/downloadpdf/journals/popets/2020/2/article-p129.xml

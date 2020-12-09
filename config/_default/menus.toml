@@ -29,7 +29,10 @@
   weight = 50
 
 
-
+[[main]]
+  name = "Technical Papers"
+  url = "#technicalpapers"
+  weight = 60
 
 #[[main]]
 #  name = "Contact"

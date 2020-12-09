@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined [Athina Markopoulou's research group](https://athinagroup.eng.uci.edu/) as a PhD Computer Engineering student in Fall 2018. His research interests include ads & tracking and privacy within the mobile and IoT space. Before joining Athina's research group, Hieu Le's industry experience included work relating to government contracts, high traffic sites, and technical consulting for UCI.
+Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined [Athina Markopoulou's research group](https://athinagroup.eng.uci.edu/) as a PhD Computer Engineering student in Fall 2018. His research interests include ads & tracking and privacy within the web, mobile, and IoT space. Before joining Athina's research group, Hieu Le's industry experience included work relating to government contracts, high traffic sites, and technical consulting for UCI.

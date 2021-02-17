@@ -17,8 +17,8 @@ publishDate: "2020-12-04T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: accepted to the Network and Distributed System Security Symposium (NDSS 2021)
-publication_short: accepted to *NDSS 2021*
+publication: Network and Distributed System Security Symposium (NDSS 2021)
+publication_short: NDSS 2021
 
 abstract: The adblocking arms race has escalated over the last few years. An entire new ecosystem of circumvention (CV) services has recently emerged that aims to bypass adblockers by obfuscating site content, making it difficult for adblocking filter lists to distinguish between ads and functional content. In this paper, we investigate recent anti-circumvention efforts by the adblocking community that leverage custom filter lists. In particular, we analyze the anti-circumvention filter list (ACVL), which supports advanced filter rules with enriched syntax and capabilities designed specifically to counter circumvention. We show that keeping ACVL rules up-to-date requires expert list curators to continuously monitor sites known to employ CV services and to discover new such sites in the wild — both tasks require considerable manual effort. To help automate and scale ACVL curation, we develop CV-INSPECTOR, a machine learning approach for automatically detecting adblock circumvention using differential execution analysis. We show that CV-INSPECTOR achieves 93% accuracy in detecting sites that successfully circumvent adblockers. We deploy CV-INSPECTOR on top-20K sites to discover the sites that employ circumvention in the wild.We further apply CV-INSPECTOR to a list of sites that are known to utilize circumvention and are closely monitored by ACVL authors. We demonstrate that CV-INSPECTOR reduces the human labeling effort by 98%, which removes a major bottleneck for ACVL authors. Our work is the first large-scale study of the state of the adblock circumvention arms race, and makes an important step towards automating anti-CV efforts.
 
@@ -26,9 +26,9 @@ abstract: The adblocking arms race has escalated over the last few years. An ent
 summary: The adblocking arms race has escalated over the last few years. An entire new ecosystem of circumvention (CV) services has recently emerged that aims to bypass adblockers by obfuscating site content, making it difficult for adblocking filter lists to distinguish between ads and functional content. In this paper, we investigate recent anti-circumvention efforts by the adblocking community that leverage custom filter lists. In particular, we analyze the anti-circumvention filter list (ACVL), which supports advanced filter rules with enriched syntax and capabilities designed specifically to counter circumvention. To help automate and scale ACVL curation, we develop CV-INSPECTOR, a machine learning approach for automatically detecting adblock circumvention using differential execution analysis.
 
 tags:
-- Anti-circumvention
-- Ads & Tracking
-- Web Measurement
+- Circumvention
+- Adblocking
+- Differential Analysis
 featured: false
 
 links:
@@ -36,7 +36,7 @@ links:
 #  url: https://levanhieu.com/talk/adblockerdevsummit_2020/
 #- name: Rokustic Code
 #  url: https://github.com/UCI-Networking-Group/rokustic
-#url_pdf: https://content.sciendo.com/downloadpdf/journals/popets/2020/2/article-p129.xml
+url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2021-055b-paper.pdf
 #url_dataset: 'https://athinagroup.eng.uci.edu/projects/smarttv/data/'
 url_project: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/'
 #url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'
@@ -47,8 +47,8 @@ url_project: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+image:
+  caption: 'Image credit: [Paper](https://www.ndss-symposium.org/wp-content/uploads/2021-055b-paper.pdf)'
 #  focal_point: ""
 #  preview_only: false
 

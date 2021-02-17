@@ -1,7 +1,7 @@
 ---
 title: 'I will be presenting CV-Inspector at NDSS 2021 on Febrary 24th'
 subtitle: 'I will present my paper, CV-Inspector: Towards Automating Detection of Adblock Circumvention at NDSS 2021.'
-summary: I will present my paper, CV-Inspector: Towards Automating Detection of Adblock Circumvention at NDSS 2021.
+summary: 'I will present my paper, CV-Inspector: Towards Automating Detection of Adblock Circumvention at NDSS 2021.'
 authors:
 - Hieu Le
 tags:

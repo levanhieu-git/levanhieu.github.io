@@ -36,12 +36,12 @@ links:
 #  url: https://levanhieu.com/talk/adblockerdevsummit_2020/
 #- name: Rokustic Code
 #  url: https://github.com/UCI-Networking-Group/rokustic
+- name: Amazon Machine Image
+  url: https://athinagroup.eng.uci.edu/projects/cv-inspector/ami/
 url_project: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/'
 url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2021-055b-paper.pdf
 url_code: 'https://github.com/UCI-Networking-Group/cv-inspector'
 url_dataset: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/data/'
-- name: Amazon Machine Image
-  url: https://athinagroup.eng.uci.edu/projects/cv-inspector/ami/
 #url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'
 #url_poster: '#'
 #url_slides: ''

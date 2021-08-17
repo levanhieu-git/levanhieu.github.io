@@ -38,6 +38,8 @@ links:
 #  url: https://github.com/UCI-Networking-Group/rokustic
 - name: Amazon Machine Image
   url: https://athinagroup.eng.uci.edu/projects/cv-inspector/ami/
+- name: NDSS 2021 Video
+  url: https://www.youtube.com/watch?v=tmNL_LYZVD0&list=PLfUWWM-POgQsqggYwKZDfhGRvIwvApfzz&index=2
 url_project: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/'
 url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2021-055b-paper.pdf
 url_code: 'https://github.com/UCI-Networking-Group/cv-inspector'

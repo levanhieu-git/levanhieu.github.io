@@ -42,6 +42,8 @@ url_pdf: https://content.sciendo.com/downloadpdf/journals/popets/2020/2/article-
 url_dataset: 'https://athinagroup.eng.uci.edu/projects/smarttv/data/'
 url_project: 'https://athinagroup.eng.uci.edu/projects/smarttv/'
 url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'
+- name: PrivacyCon2021
+  url: https://www.ftc.gov/news-events/events-calendar/privacycon-2021
 
 #url_code: '#'
 #url_poster: '#'

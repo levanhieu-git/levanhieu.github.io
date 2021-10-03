@@ -32,14 +32,17 @@ tags:
 - Virtual Reality
 - Oculus
 - Network Traffic and Privacy Policy Consistency Analysis
-
 featured: false
 
 links:
+#- name: Short Talk
+#  url: https://levanhieu.com/talk/adblockerdevsummit_2020/
+#- name: Rokustic Code
+#  url: https://github.com/UCI-Networking-Group/rokustic
 - name: arXiv
   url: https://arxiv.org/abs/2106.05407
- url_project: 'https://athinagroup.eng.uci.edu/projects/ovrseen/'
-# url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2021-055b-paper.pdf
+url_project: 'https://athinagroup.eng.uci.edu/projects/ovrseen/'
+url_pdf: https://arxiv.org/abs/2106.05407
 # url_code: 'https://github.com/UCI-Networking-Group/cv-inspector'
 # url_dataset: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/data/'
 #url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'

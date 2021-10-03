@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Engineering
-    institution: University of California, Irvine - GPA 3.94
+    institution: University of California, Irvine - GPA 3.95
     year: 2018-Current
   - course: B.S., Computer Science and Engineering
     institution: University of California, Irvine - GPA 3.6
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined [Athina Markopoulou's research group](https://athinagroup.eng.uci.edu/) as a PhD Computer Engineering student in Fall 2018. His research interests include ads & tracking and privacy within the web, mobile, and IoT space. Before joining Athina's research group, Hieu Le's industry experience included work relating to government contracts, high traffic sites, and technical consulting for UCI. For more information, view my [Academic CV](https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view?usp=sharing).
+Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined [Athina Markopoulou's research group](https://athinagroup.eng.uci.edu/) as a PhD Computer Engineering student in Fall 2018. His research interests include ads & tracking and privacy within the web, mobile, and IoT space. Before joining Athina's research group, Hieu Le's industry experience included work relating to government contracts, high traffic sites, and technical consulting for UCI. View my [CV](https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view?usp=sharing) for more information.

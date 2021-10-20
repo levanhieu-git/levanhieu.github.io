@@ -1,5 +1,5 @@
 ---
-title: Revisiting Adblock Circumvention
+title: Towards Automatic Generating and Testing of Filter Rules
 event: Adblocker Dev Summit 2021
 event_url: https://adblockerdevsummit.com/
 

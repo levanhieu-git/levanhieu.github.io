@@ -41,7 +41,7 @@ links:
 #url_code: ""
 #url_pdf: "https://drive.google.com/file/d/1dlQ8ZD0TSg7EODtBiRovdDA3IXLzUA8a/view?usp=sharing"
 #url_slides: ""
-#url_video: "https://www.youtube.com/watch?v=sSKcyQoTVS0"
+url_video: "https://www.youtube.com/watch?v=pw0FO5KZUjc"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

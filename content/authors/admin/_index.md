@@ -24,8 +24,11 @@ interests:
 education:
   courses:
   - course: PhD in Computer Engineering
-    institution: University of California, Irvine - GPA 3.95
+    institution: University of California, Irvine 
     year: 2018-Current
+  - course: M.S., Computer Engineering
+    institution: University of California, Irvine - GPA 3.95
+    year: 2021
   - course: B.S., Computer Science and Engineering
     institution: University of California, Irvine - GPA 3.6
     year: 2009

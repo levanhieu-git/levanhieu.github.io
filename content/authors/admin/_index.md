@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mail:hieul@uci.edu'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/levanhieu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9_AJvf4AAAAJ&hl=en

@@ -38,9 +38,9 @@ links:
 #- name: Rokustic Code
 #  url: https://github.com/UCI-Networking-Group/rokustic
 #- name: arXiv
-#  url: https://arxiv.org/pdf/2202.12872.pdf
+#  url: https://arxiv.org/abs/2202.12872
 #url_project: 'https://athinagroup.eng.uci.edu/projects/ovrseen/'
-url_pdf: https://arxiv.org/abs/2106.05407
+url_pdf: https://arxiv.org/abs/2202.12872
 # url_code: 'https://github.com/UCI-Networking-Group/cv-inspector'
 # url_dataset: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/data/'
 #url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'

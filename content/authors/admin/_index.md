@@ -17,9 +17,11 @@ organizations:
 bio: My research interests include ads & tracking and privacy within the web,mobile, and IoT space.
 
 interests:
-- Ads & Tracking
-- Privacy
-- Web / Network measurements
+- Ads & Tracking on the Web, Smart TVs, VR
+- Adblocking vs. Advertisers
+- Filter Lists
+- Web and Network Measurements
+- System Design, Automated Tools
 
 education:
   courses:
@@ -76,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined [Athina Markopoulou's research group](https://athinagroup.eng.uci.edu/) as a PhD Computer Engineering student in Fall 2018. His research interests include ads & tracking and privacy within the web, mobile, and IoT space. Before joining Athina's research group, Hieu Le's industry experience included work relating to government contracts, high traffic sites, and technical consulting for UCI. View my [CV](https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view?usp=sharing) for more information.
+Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined [Athina Markopoulou's research group](https://athinagroup.eng.uci.edu/) as a PhD Computer Engineering student in Fall 2018. His research interests include studying the ads & tracking ecosystems within the web, smart TVs, and VR space. He is currently an elected officer of the [SOCIETY OF GRADUATE ELECTRICAL ENGINEERS & COMPUTER SCIENTISTS](https://sites.uci.edu/geecs/) at UCI. Before joining Athina's research group, Hieu Le's industry experience included work relating to government contracts, high traffic sites, and technical consulting for UCI. [View my CV](https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view?usp=sharing) for more information.

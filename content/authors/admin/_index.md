@@ -17,10 +17,9 @@ organizations:
 bio: My research interests include ads & tracking and privacy within the web,mobile, and IoT space.
 
 interests:
-- Ads & Tracking on the Web, Smart TVs, VR
-- Adblocking vs. Advertisers
-- Filter Lists
-- Web and Network Measurements
+- Ads & Tracking Ecosystems
+- Filter Rule Generation
+- Network Measurements
 - System Design, Automated Tools
 
 education:

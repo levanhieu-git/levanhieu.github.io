@@ -3,8 +3,8 @@ title: 'OVRSeen at PrivacyCon 2022 (hosted by FTC)'
 subtitle: 'Rahmadi Trimananda, is presenting our USENIX 2022 paper on Auditing Network Traffic and Privacy Policies at PrivacyCon 2022.'
 summary: 'Rahmadi Trimananda, is presenting our USENIX 2022 paper on Auditing Network Traffic and Privacy Policies at PrivacyCon 2022.'
 authors:
-- Hieu Le
 - Rahmadi Trimananda
+- Hieu Le
 - Hao Cui
 - Janice Ho
 - Anastasia Shuba

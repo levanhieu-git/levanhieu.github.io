@@ -3,7 +3,11 @@ title: 'PrivacyCon 2021 (hosted by FTC)'
 subtitle: 'Janus Varmarken, is presenting our PETS 2020 paper on Smart TVs at PrivacyCon 2021.'
 summary: 'Janus Varmarken, is presenting our PETS 2020 paper on Smart TVs at PrivacyCon 2021.'
 authors:
+- Janus Varmarken
 - Hieu Le
+- Anastasia Shuba
+- Athina Markopoulou
+- Zubair Shafiq
 tags:
 - Federal Trade Commission
 - PrivacyCon

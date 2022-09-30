@@ -20,8 +20,8 @@ publishDate: "2018-03-03T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: arXiv:1803.01261
+publication_short: arXiv:1803.01261
 
 abstract: Mobile devices have access to personal, potentially sensitive data, and there is a growing number of applications that transmit this personally identifiable information (PII) over the network. In this paper, we present the AntShield system that performs on-device packet-level monitoring and detects the transmission of such sensitive information accurately and in real-time. A key insight is to distinguish PII that is predefined and is easily available on the device from PII that is unknown a priori but can be automatically detected by classifiers. Our system not only combines, for the first time, the advantages of on-device monitoring with the power of learning unknown PII, but also outperforms either of the two approaches alone. We demonstrate the real-time performance of our prototype as well as the classification performance using a dataset that we collect and analyze from scratch (including new findings in terms of leaks and patterns). AntShield is a first step towards enabling distributed learning of private information exposure.
 

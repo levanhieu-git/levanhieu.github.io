@@ -1,5 +1,5 @@
 ---
-title: AutoFR: Automated Filter Rule Generation for Adblocking
+title: "AutoFR: Automated Filter Rule Generation for Adblocking"
 event: Ad-Filtering Dev Summit 2022
 event_url: https://adfilteringdevsummit.com/
 
@@ -11,7 +11,7 @@ location: Amsterdam, Netherlands
 #  postcode: '94305'
 #  country: Netherlands
 
-summary: The talk presents our work on AutoFR for filter rule rule generation. We will walk through the formulation, implementation and evaluation of AutoFR.
+summary: "The talk presents our work on AutoFR for filter rule rule generation. We will walk through the formulation, implementation and evaluation of AutoFR."
 abstract: "The talk presents our work on AutoFR for filter rule rule generation. We will walk through the formulation, implementation and evaluation of AutoFR."
 
 # Talk start and end times.

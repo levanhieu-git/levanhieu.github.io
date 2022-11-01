@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Hieu Le is looking for a PostDoc (July 2023+)
+title: Hieu Le is looking for a PostDoc
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

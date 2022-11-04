@@ -14,13 +14,13 @@ organizations:
   url: "https://athinagroup.eng.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ads & tracking and privacy within the web,mobile, and IoT space.
+bio: My research interests include ads & tracking and privacy within the web, smart TVs, and VR space.
 
 interests:
 - Ads & Tracking Ecosystems
 - Filter Rule Generation
 - Network Measurements
-- System Design, Automated Tools
+- Framework/System Design, Automated Tools
 
 education:
   courses:
@@ -77,4 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Hieu Le received his B.S. degree in Computer Science and Engineering at UC Irvine. He joined [Athina Markopoulou's research group](https://athinagroup.eng.uci.edu/) as a PhD Computer Engineering student in Fall 2018. His research interests include studying the ads & tracking ecosystems within the web, smart TVs, and VR space. He is currently an elected officer of the [Society of Graduate Electrical Engineers & Computer Scientists](https://sites.uci.edu/geecs/) at UCI. Before joining Athina's research group, Hieu Le's industry experience included work relating to government contracts, high traffic sites, and technical consulting for UCI. [View his CV](https://levanhieu.com/media/cv.pdf) for more information. He is currently looking for a PostDoc in privacy that starts in Fall 2023.
+Hieu Le is a PhD student in Electrical Engineering and Computer Science at UC Irvine. He joined [Athina Markopoulou's](https://athinagroup.eng.uci.edu/) research group in Fall 2018 and is now part of the [ProperData frontier](https://properdata.eng.uci.edu/). His research  deals with usable security and privacy to improve (1) transparency of data collection practices by characterizing advertising and tracking ecosystems across different platforms such as the [web](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/), [smart TVs](https://levanhieu.com/publication/smarttv_pets_2020/) and [Oculus VR](https://athinagroup.eng.uci.edu/projects/ovrseen/); and (2) control of data collection by designing [frameworks and methodologies](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/) to automate the pain-points of privacy-enhancing tools (PET) that block advertising and tracking on the web. Before his PhD, he worked in industry for ten years as a software engineer/lead. [View his CV](https://levanhieu.com/media/cv.pdf) for more information. 
+
+He is currently in the academic job market.

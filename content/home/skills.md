@@ -15,11 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
   
-[[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-# description = "80%"  
+
   
 [[feature]]
   icon = "python"
@@ -27,11 +23,6 @@ subtitle = ""
   name = "Python"
 # description = "80%"
  
-[[feature]]
-  icon = "android"
-  icon_pack = "fab"
-  name = "Android"
-# description = "75%"
 
 [[feature]]
   icon = "js"
@@ -63,8 +54,22 @@ subtitle = ""
   name = "Amazon Web Services"
 #  description = "70%"
 
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
 
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+# description = "80%"  
 
+[[feature]]
+  icon = "android"
+  icon_pack = "fab"
+  name = "Android"
+# description = "75%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

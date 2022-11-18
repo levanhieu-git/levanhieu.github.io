@@ -39,7 +39,11 @@ links:
 #  url: https://github.com/UCI-Networking-Group/rokustic
 - name: arXiv
   url: https://arxiv.org/abs/2202.12872
-#url_project: 'https://athinagroup.eng.uci.edu/projects/ovrseen/'
+- name: Ad-Filtering Dev Summit 2022
+  url: https://www.youtube.com/watch?v=2wXSS8uuy5U
+- name: Adblocker Dev Summit 2021
+  url: https://www.youtube.com/watch?v=pw0FO5KZUjc
+url_project: 'https://athinagroup.eng.uci.edu/projects/ats-on-the-web/'
 #url_pdf: https://arxiv.org/abs/2202.12872
 # url_code: 'https://github.com/UCI-Networking-Group/cv-inspector'
 # url_dataset: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/data/'

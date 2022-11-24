@@ -38,10 +38,12 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
+- name: Ad-Filtering Dev Summit 2022
+  url: https://adfilteringdevsummit.com/
 #url_code: ""
 #url_pdf: "https://drive.google.com/file/d/1dlQ8ZD0TSg7EODtBiRovdDA3IXLzUA8a/view?usp=sharing"
-#url_slides: ""
-#url_video: "https://www.youtube.com/watch?v=pw0FO5KZUjc"
+url_slides: "https://docs.google.com/presentation/d/1rw4hmhouW_2GhpPBEIKGlzkK316vbhxMe1juI2Pbmkk/edit?usp=sharing"
+url_video: "https://www.youtube.com/watch?v=2wXSS8uuy5U"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

@@ -18,15 +18,15 @@
   url = "#posts"
   weight = 30
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
+#[[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 40
 
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 60
+#[[main]]
+#  name = "Skills"
+#  url = "#skills"
+#  weight = 60
 
 #[[main]]
 #  name = "Contact"

@@ -44,9 +44,9 @@ links:
 - name: Talk (2021)
   url: https://www.youtube.com/watch?v=pw0FO5KZUjc
 url_project: 'https://athinagroup.eng.uci.edu/projects/ats-on-the-web/'
-#url_pdf: https://arxiv.org/abs/2202.12872
-# url_code: 'https://github.com/UCI-Networking-Group/cv-inspector'
-# url_dataset: 'https://athinagroup.eng.uci.edu/projects/cv-inspector/data/'
+url_pdf: https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/5/718/files/2023/02/AutoFR-CameraReady-USENIX2023.pdf
+url_code: https://github.com/UCI-Networking-Group/AutoFR
+url_dataset: https://athinagroup.eng.uci.edu/projects/ats-on-the-web/autofr-dataset/
 #url_video: 'https://www.youtube.com/watch?v=E-Qt36TzD8s'
 #url_poster: '#'
 #url_slides: ''

@@ -37,7 +37,7 @@ links:
 #  url: https://levanhieu.com/talk/adblockerdevsummit_2020/
 #- name: Rokustic Code
 #  url: https://github.com/UCI-Networking-Group/rokustic
-- name: arXiv
+- name: Extended Paper
   url: https://arxiv.org/abs/2202.12872
 - name: Talk (2022)
   url: https://www.youtube.com/watch?v=2wXSS8uuy5U

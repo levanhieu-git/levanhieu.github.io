@@ -84,3 +84,7 @@ I am a 5th year PhD student in Electrical Engineering and Computer Science at UC
 
 For more info: [CV](https://levanhieu.com/media/cv.pdf), [Research Statement](https://levanhieu.com/media/HieuLeResearchStatement.pdf), [Teaching Statement](https://levanhieu.com/media/HieuLeTeachingStatement.pdf)
 
+Latest May 2023 News:
+- I am honored to receive the [Graduate Dean's Dissertation Fellowship 2023](https://grad.uci.edu/funding/current-fellowships/graduate-deans-dissertation-fellowship-i/). 
+- I will be attending [IEEE S&P 2023](https://sp2023.ieee-security.org/index.html) from May 22-25rd as a Student Travel Grant Recipient.
+- I was an invited panelist at the [Electrical Engineering Specialization Panel](https://sites.uci.edu/geecs/2023/05/03/geecs-collaborates-with-ieee-at-uci-for-ee-specialization-panel-april-26-2023/), hosted by [IEEE at UCI](https://ieee.ics.uci.edu/index.html).

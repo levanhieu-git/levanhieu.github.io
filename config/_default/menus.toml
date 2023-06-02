@@ -40,19 +40,6 @@
     url = "media/cv.pdf"
     weight = 70
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "Research Statement"
-    url = "media/HieuLeResearchStatement.pdf"
-    weight = 80
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "Teaching Statement"
-    url = "media/HieuLeTeachingStatement.pdf"
-    weight = 82
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.

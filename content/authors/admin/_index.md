@@ -47,7 +47,7 @@ social:
   link: 'mail:hieul@uci.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: https://levanhieu.com/media/cv.pdf
+  link: https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9_AJvf4AAAAJ&hl=en

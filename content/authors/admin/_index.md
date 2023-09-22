@@ -6,12 +6,12 @@ title: Hieu Le
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Irvine
-  url: "https://athinagroup.eng.uci.edu/"
+- name: University of Michigan, Ann Arbor
+  url: "https://ensa.fi/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ads & tracking and privacy within the web, smart TVs, and VR space.
@@ -24,9 +24,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Engineering
+  - course: PhD in Electrical Engineering and Computer Science
     institution: University of California, Irvine 
-    year: 2018-Current
+    year: 2018-2023
   - course: M.S., Computer Engineering
     institution: University of California, Irvine - GPA 3.96
     year: 2021
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mail:hieul@uci.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mail:hieul@umich.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=9_AJvf4AAAAJ&hl=en
 - icon: users
   icon_pack: fas
-  link: https://athinagroup.eng.uci.edu/
+  link: https://ensa.fi/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/levanhieu
@@ -80,11 +80,16 @@ user_groups:
 - Visitors
 ---
 
-I am a 5th year PhD student in Electrical Engineering and Computer Science (EECS) at UC Irvine. I am advised by [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/) and part of the [ProperData NSF Frontier](https://properdata.eng.uci.edu/) project. My research lies at the intersection of privacy and networking to improve (1) transparency of data collection practices by characterizing advertising and tracking ecosystems across different platforms such as the [web](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/), [smart TVs](https://levanhieu.com/publication/smarttv_pets_2020/) and [Oculus VR](https://athinagroup.eng.uci.edu/projects/ovrseen/); and (2) control of data collection by designing [frameworks and methodologies](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/) to automate the pain-points of privacy-enhancing technologies (PETs) that block advertising and tracking on the web. For more information, see [my CV](https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view).
+I am a Postdoctoral Research Fellow within Roya Ensafi's [Censored Planet Lab](https://ensa.fi/) in the Computer Science and Engineering (CSE) School at the University of Michigan, Ann Arbor. Previously, I received my PhD student in Electrical Engineering and Computer Science (EECS) at UC Irvine and was advised by [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/) and part of the [ProperData NSF Frontier](https://properdata.eng.uci.edu/) project. My research lies at the intersection of privacy and networking to improve the (1) transparency of data collection practices by characterizing advertising and tracking ecosystems across different platforms such as the [web](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/), [smart TVs](https://levanhieu.com/publication/smarttv_pets_2020/) and [Oculus VR](https://athinagroup.eng.uci.edu/projects/ovrseen/); and the (2) control of data collection by designing [frameworks and methodologies](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/) to automate the pain-points of privacy-enhancing technologies (PETs) that block advertising and tracking on the web. For more information, see [my CV](https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view).
 
-Latest 2023 News:
+Recent 2023 News:
+
+September: 
 - I am excited to join [Roya Ensafi's Censored Planet Lab](https://ensa.fi/) at the University of Michigan, Ann Arbor as a postdoc this fall!
+
+August: 
+- I successfully defended by dissertation.
 - I will be presenting [AutoFR](https://www.usenix.org/conference/usenixsecurity23/presentation/le) at USENIX Security 2023. Its [code and dataset](https://github.com/UCI-Networking-Group/AutoFR) received all [USENIX artifact badges](https://secartifacts.github.io/usenixsec2023/badges) for Available, Functional, and Reproduced.
+
+Earlier:
 - I am honored to receive the [Graduate Dean's Dissertation Fellowship 2023](https://grad.uci.edu/funding/current-fellowships/graduate-deans-dissertation-fellowship-i/). 
-- I will be attending [IEEE S&P 2023](https://sp2023.ieee-security.org/index.html) from May 22-25rd as a Student Travel Grant Recipient.
-- I was an invited panelist at the [Electrical Engineering Specialization Panel](https://www.instagram.com/p/Crhr8oFOECV/?igshid=MDJmNzVkMjY%3D&__coig_restricted=1), hosted by [IEEE](https://ieee.ics.uci.edu/index.html).

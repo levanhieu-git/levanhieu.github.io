@@ -84,9 +84,9 @@ My research lies at the intersection of privacy and networking to improve the (1
 
 Currently, I am a Postdoctoral Research Fellow within Roya Ensafi's [Censored Planet Lab](https://ensa.fi/) in the Computer Science and Engineering (CSE) School at the University of Michigan, Ann Arbor. I received my PhD in Electrical Engineering and Computer Science (EECS) at UC Irvine and was advised by [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/) and part of the [ProperData NSF Frontier](https://properdata.eng.uci.edu/) project. For more information, see [my CV](https://drive.google.com/file/d/1egcz5IXhqMeAsTXoFw941mYWrlOb9Wma/view?usp=sharing).
 
-Recent 2023 News:
-- Oct.-Present: I am excited to join [Roya Ensafi's Censored Planet Lab](https://ensa.fi/) at the University of Michigan, Ann Arbor as a postdoc this fall!
-- Oct. 4-5th: I [presented my followup work](https://levanhieu.com/talk/adblockerdevsummit_2023/) to AutoFR at the [Ad-Filtering Dev Summit 2023](https://adfilteringdevsummit.com/) in Amsterdam.
-- Aug. 28th: I successfully defended by dissertation.
-- I will be presenting [AutoFR](https://www.usenix.org/conference/usenixsecurity23/presentation/le) at USENIX Security 2023. Its [code and dataset](https://github.com/UCI-Networking-Group/AutoFR) received all [USENIX artifact badges](https://secartifacts.github.io/usenixsec2023/badges) for Available, Functional, and Reproduced.
-- I am honored to receive the [Graduate Dean's Dissertation Fellowship 2023](https://grad.uci.edu/funding/current-fellowships/graduate-deans-dissertation-fellowship-i/). 
+Recent News:
+- Feb. 2024: I guest lectured on "Filtering the Online Experience: The Role of Filter Rules in Online Privacy", hosted by Umar Iqbal at Washington University in St. Louis.
+- Jan. 2024: I gave a talk on "Automating Filter Rule Creation with Minimal Visual Breakage" to the Privacy Engineering Team at DuckDuckGo. Hosted by Anastasia Shuba.
+- Oct. 2023-Present: I am excited to join [Roya Ensafi's Censored Planet Lab](https://ensa.fi/) at the University of Michigan, Ann Arbor as a postdoc this fall!
+- Oct. 4-5th 2023: I [presented my followup work](https://levanhieu.com/talk/adblockerdevsummit_2023/) to AutoFR at the [Ad-Filtering Dev Summit 2023](https://adfilteringdevsummit.com/) in Amsterdam.
+- Aug. 28th 2023: I successfully defended by dissertation.

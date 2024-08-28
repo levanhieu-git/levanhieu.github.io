@@ -6,12 +6,12 @@ title: Hieu Le
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Senior Technical Advisor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan, Ann Arbor
-  url: "https://ensa.fi/"
+- name: Federal Trade Commission
+  url: "https://ftc.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ads & tracking and privacy within the web, smart TVs, and VR space.
@@ -26,13 +26,10 @@ education:
   courses:
   - course: PhD in Electrical Engineering and Computer Science
     institution: University of California, Irvine 
-    year: 2018-2023
   - course: M.S., Computer Engineering
-    institution: University of California, Irvine - GPA 3.96
-    year: 2021
+    institution: University of California, Irvine
   - course: B.S., Computer Science and Engineering
-    institution: University of California, Irvine - GPA 3.6
-    year: 2009
+    institution: University of California, Irvine
 #  - course: Highschool and IB Diploma
 #    institution: San Jose High Academy
 #    year: 2005
@@ -44,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mail:hieul@umich.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mail:levanhieu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1egcz5IXhqMeAsTXoFw941mYWrlOb9Wma/view?usp=sharing
@@ -53,7 +50,7 @@ social:
   link: https://scholar.google.com/citations?user=9_AJvf4AAAAJ&hl=en
 - icon: users
   icon_pack: fas
-  link: https://ensa.fi/
+  link: https://ftc.gov/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/levanhieu
@@ -80,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently serving as a Senior Technical Advisor at the Federal Trade Commission’s Office of Technology, where I leverage my expertise on privacy, automated systems, and applied machine learning to further the agency’s mission to protect consumers and promote fair competition. 
+I am currently serving as a Senior Technical Advisor at the Federal Trade Commission’s [Office of Technology](https://www.ftc.gov/about-ftc/bureaus-offices/office-technology), where I leverage my expertise on privacy, automated systems, and applied machine learning to further the agency’s mission to protect consumers and promote fair competition. 
 
 Previously, I was a Postdoctoral Research Fellow within Roya Ensafi’s [Censored Planet Lab](https://ensa.fi/) in the Computer Science and Engineering (CSE) School at the University of Michigan, Ann Arbor. I collaborated on projects that examined the impact of geoblocking on citizens in sanctioned states as well as the development of machine learning and outlier detection methodologies to identify censorship events and content.
 
@@ -91,6 +88,6 @@ For more information, see [my CV](https://drive.google.com/file/d/1egcz5IXhqMeAs
 
 Recent News:
 - Aug. 2024: I completed my Postdoc with Prof. Ensafi and started as a Senior Technical Advisor at the FTC.
-- Aug. 2024: I attended USENIX Security 2024, where our paper "Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo" won Distinguished Paper Award!
+- Aug. 2024: I attended USENIX Security 2024, where our paper "[Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo](https://www.usenix.org/conference/usenixsecurity24/presentation/ablove)" won Distinguished Paper Award! Congrats to all co-authors!
 - Feb. 2024: I guest lectured on "Filtering the Online Experience: The Role of Filter Rules in Online Privacy", hosted by Umar Iqbal at Washington University in St. Louis.
 - Jan. 2024: I gave a talk on "Automating Filter Rule Creation with Minimal Visual Breakage" to the Privacy Engineering Team at DuckDuckGo. Hosted by Anastasia Shuba.

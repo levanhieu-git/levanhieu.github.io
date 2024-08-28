@@ -80,13 +80,17 @@ user_groups:
 - Visitors
 ---
 
-My research lies at the intersection of privacy and networking to improve the (1) transparency of data collection practices by characterizing advertising and tracking ecosystems across different platforms such as the [web](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/), [smart TVs](https://levanhieu.com/publication/smarttv_pets_2020/) and [Oculus VR](https://athinagroup.eng.uci.edu/projects/ovrseen/); and the (2) control of data collection by designing [frameworks and methodologies](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/) to automate the pain-points of privacy-enhancing technologies (PETs) that block advertising and tracking on the web.
+I am currently serving as a Senior Technical Advisor at the Federal Trade Commission’s Office of Technology, where I leverage my expertise on privacy, automated systems, and applied machine learning to further the agency’s mission to protect consumers and promote fair competition. 
 
-Currently, I am a Postdoctoral Research Fellow within Roya Ensafi's [Censored Planet Lab](https://ensa.fi/) in the Computer Science and Engineering (CSE) School at the University of Michigan, Ann Arbor. I received my PhD in Electrical Engineering and Computer Science (EECS) at UC Irvine and was advised by [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/) and part of the [ProperData NSF Frontier](https://properdata.eng.uci.edu/) project. For more information, see [my CV](https://drive.google.com/file/d/1egcz5IXhqMeAsTXoFw941mYWrlOb9Wma/view?usp=sharing).
+Previously, I was a Postdoctoral Research Fellow within Roya Ensafi’s [Censored Planet Lab](https://ensa.fi/) in the Computer Science and Engineering (CSE) School at the University of Michigan, Ann Arbor. I collaborated on projects that examined the impact of geoblocking on citizens in sanctioned states as well as the development of machine learning and outlier detection methodologies to identify censorship events and content.
+
+I received my PhD in Electrical Engineering and Computer Science (EECS) at UC Irvine and was advised by [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/) and part of the [ProperData NSF Frontier](https://properdata.eng.uci.edu/) project. My doctoral studies centers on privacy and networking to improve the (1) transparency of data collection practices by characterizing advertising and tracking ecosystems across different platforms such as the [web](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/), [smart TVs](https://levanhieu.com/publication/smarttv_pets_2020/) and [Oculus VR](https://athinagroup.eng.uci.edu/projects/ovrseen/); and the (2) control of data collection by designing [frameworks and methodologies](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/) to automate the pain-points of privacy-enhancing technologies (PETs) that block advertising and tracking on the web.
+
+For more information, see [my CV](https://drive.google.com/file/d/1egcz5IXhqMeAsTXoFw941mYWrlOb9Wma/view?usp=sharing).
+
 
 Recent News:
+- Aug. 2024: I completed my Postdoc with Prof. Ensafi and started as a Senior Technical Advisor at the FTC.
+- Aug. 2024: I attended USENIX Security 2024, where our paper "Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo" won Distinguished Paper Award!
 - Feb. 2024: I guest lectured on "Filtering the Online Experience: The Role of Filter Rules in Online Privacy", hosted by Umar Iqbal at Washington University in St. Louis.
 - Jan. 2024: I gave a talk on "Automating Filter Rule Creation with Minimal Visual Breakage" to the Privacy Engineering Team at DuckDuckGo. Hosted by Anastasia Shuba.
-- Oct. 2023-Present: I am excited to join [Roya Ensafi's Censored Planet Lab](https://ensa.fi/) at the University of Michigan, Ann Arbor as a postdoc this fall!
-- Oct. 4-5th 2023: I [presented my followup work](https://levanhieu.com/talk/adblockerdevsummit_2023/) to AutoFR at the [Ad-Filtering Dev Summit 2023](https://adfilteringdevsummit.com/) in Amsterdam.
-- Aug. 28th 2023: I successfully defended by dissertation.

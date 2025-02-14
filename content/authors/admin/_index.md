@@ -17,8 +17,10 @@ organizations:
 bio: My research interests include ads & tracking and privacy within the web, smart TVs, and VR space.
 
 interests:
+- Tech & Policy
+- Web Privacy
 - Ads & Tracking Ecosystems
-- Filter Rule Generation
+- Applied Machine Learning
 - Network Measurements
 - Framework/System Design
 
@@ -30,9 +32,7 @@ education:
     institution: University of California, Irvine
   - course: B.S., Computer Science and Engineering
     institution: University of California, Irvine
-#  - course: Highschool and IB Diploma
-#    institution: San Jose High Academy
-#    year: 2005
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

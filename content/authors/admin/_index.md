@@ -83,7 +83,7 @@ Previously, I was a Postdoctoral Research Fellow within Roya Ensafi’s [Censore
 
 I received my PhD in Electrical Engineering and Computer Science (EECS) at UC Irvine and was advised by [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/) and part of the [ProperData NSF Frontier](https://properdata.eng.uci.edu/) project. My doctoral studies centers on privacy and networking to improve the (1) transparency of data collection practices of different platforms such as the [web](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/), [smart TVs](https://levanhieu.com/publication/smarttv_pets_2020/) and [Oculus VR](https://athinagroup.eng.uci.edu/projects/ovrseen/); and the (2) control of data collection by designing [frameworks and methodologies](https://athinagroup.eng.uci.edu/projects/ats-on-the-web/) to automate the pain-points of privacy-enhancing technologies (PETs) that block advertising and tracking on the web.
 
-For more information, see [my CV](https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view?usp=sharing).
+For more information, see [my CV](https://drive.google.com/file/d/1M2rbk2ldAWZX883XSrQgWz23c6V-N6NJ/view?usp=sharing).
 
 
 Recent News:

@@ -44,7 +44,7 @@ social:
 #  link: 'mail:levanhieu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1QzYKxQLLfWtlrUyTb1jv4QEvf-j7FROf/view?usp=sharing
+  link: https://drive.google.com/file/d/1M2rbk2ldAWZX883XSrQgWz23c6V-N6NJ/view?usp=sharing
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9_AJvf4AAAAJ&hl=en
@@ -87,9 +87,9 @@ For more information, see [my CV](https://drive.google.com/file/d/1QzYKxQLLfWtlr
 
 
 Recent News:
-- Aug. 2024 - Present: I am serving as Senior Technologist at the FTC's Office of Technology.
+- Present: I am serving as Senior Technologist at the FTC's Office of Technology.
 - July 2025: I attended [PETS 2025](https://petsymposium.org/2025/program.php) and served as Session Chair.
-- Aug. 2024: I completed my Postdoc with Prof. Ensafi at the University of Michigan.
+- July 2024: I completed my Postdoc with Prof. Ensafi at the University of Michigan.
 - Aug. 2024: I attended USENIX Security 2024, where our paper "[Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo](https://www.usenix.org/conference/usenixsecurity24/presentation/ablove)" won Distinguished Paper Award! Congrats to all co-authors!
 - Feb. 2024: I guest lectured on "Filtering the Online Experience: The Role of Filter Rules in Online Privacy", hosted by Umar Iqbal at Washington University in St. Louis.
 - Jan. 2024: I gave a talk on "Automating Filter Rule Creation with Minimal Visual Breakage" to the Privacy Engineering Team at DuckDuckGo. Hosted by Anastasia Shuba.

@@ -88,7 +88,7 @@ For more information, see [my CV](https://drive.google.com/file/d/1M2rbk2ldAWZX8
 
 Recent News:
 - Present: I am serving as Senior Technologist at the FTC's Office of Technology.
-- July 2025: I attended [PETS 2025](https://petsymposium.org/2025/program.php) and served as Session Chair.
+- July 2025: I attended [PETS 2025](https://petsymposium.org/2025/program.php) and served as a Session Chair.
 - July 2024: I completed my Postdoc with Prof. Ensafi at the University of Michigan.
 - Aug. 2024: I attended USENIX Security 2024, where our paper "[Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo](https://www.usenix.org/conference/usenixsecurity24/presentation/ablove)" won Distinguished Paper Award! Congrats to all co-authors!
 - Feb. 2024: I guest lectured on "Filtering the Online Experience: The Role of Filter Rules in Online Privacy", hosted by Umar Iqbal at Washington University in St. Louis.
